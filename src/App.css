@@ -53,18 +53,19 @@ body {
 
 .Display h4, h3 {
   margin: 5px;
+  color: #ffcb05
 }
 
 .Display img {
   width: 200px;
 }
 h1{
-  color: white;
+  color: #e54622;
   text-align: center;
 }
 
 h2{
-  color: black;
+  color: #ffcb05;
 }
 
 @media (min-width: 50px){
