@@ -67,9 +67,10 @@ h2{
   color: black;
 }
 
-@media (min-width: 640px){
-  .title {
+@media (min-width: 50px){
+  .Display {
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 5px;
+    margin-top: 100px;
   }
 }
